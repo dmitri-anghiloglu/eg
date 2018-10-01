@@ -128,19 +128,18 @@ footer.footer {
 
 .map-section {
   position: relative;
-  background-color: #343a40;
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  background-color: #f8f9fa;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
 }
 
 .map-section .overlay {
   position: absolute;
-  background-color: #212529;
+  background-color: #f8f9fa;
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.3;
 }
 
 .map-section .map {
